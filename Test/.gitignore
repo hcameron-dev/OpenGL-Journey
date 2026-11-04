@@ -1,0 +1,8 @@
+# Ignoring personal vscode configurations
+.vscode/
+
+# Ignoring build files
+build/
+
+# Ignoring currently unused files
+src/config.h 

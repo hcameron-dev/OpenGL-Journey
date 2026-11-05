@@ -7,7 +7,7 @@ I will be using each commit as a "checkpoint" and each will be visible by viewin
 
 Originally wasn't intending on making a repository. This will be apparent in some naming decisions such as naming the project "Test".
 
-Tools used:
+Tools used
 
 * GLFW
 * glad

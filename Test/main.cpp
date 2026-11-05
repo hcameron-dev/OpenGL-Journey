@@ -109,7 +109,7 @@ int main()
     int height, width, nr_channels;
     stbi_set_flip_vertically_on_load(true);
 
-    unsigned char *data = stbi_load("content\\textures\\brrook.png", &width, &height, &nr_channels, 0);
+    unsigned char *data = stbi_load("content\\textures\\stones.png", &width, &height, &nr_channels, 0);
 
     if (data)
     {

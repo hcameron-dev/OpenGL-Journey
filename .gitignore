@@ -6,3 +6,6 @@ build/
 
 # Ignoring currently unused files
 src/config.h 
+
+# Ignoring project file
+Test/

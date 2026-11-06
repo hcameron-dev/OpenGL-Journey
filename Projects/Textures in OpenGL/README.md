@@ -84,4 +84,4 @@ Dependencies
 * glfw3native.h
 * khrplatform.h
 * glad.h
-
+* glad.c

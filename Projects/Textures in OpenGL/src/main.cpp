@@ -5,7 +5,6 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>
 
-#include <filesystem>
 #include <iostream>
 #include <string>
 #include <cmath>
